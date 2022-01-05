@@ -1,0 +1,12 @@
+.div1 {
+    width: 100%;
+    /* border: -15px solid green; */
+    padding: -50px;
+    /* margin: 2px; */
+    background-color: red;
+  }
+
+  .line {
+    width: 10px;
+    height: 200px;
+  }
