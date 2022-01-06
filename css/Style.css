@@ -6,7 +6,112 @@
     background-color: red;
   }
 
+
+
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  /* background-color: DodgerBlue; */
+}
+
+.flex-container > div {
+  /* background-color: #f1f1f1; */
+  width: 50%;
+  margin: 10px;
+  text-align: left;
+  /* line-height: 75px; */
+  /* font-size: 30px; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.group-photo{
+  width: 350px;
+  height:300px;
+  /* position: relative;
+  align-items: left;
+  justify-content: left; */
+  border-radius: 5%;
+  margin-left: 40%;
+  /* background-color:red; */
+}
+
+
+
+
+.para1{
+  color:#878a92;
+  margin-top: 20px; 
+   margin-bottom: 10px; 
+   width: 75%;
+}
+
+
+.title1{
+  font-size:36px;
+  font-weight:bold;
+  /* margin: 10px 0px 10px 10px; */
+  font-family: 'Times New Roman';
+
+}
+
+
+
+.button1{
+  width:150px;
+  height: 40px;
+  margin-top: 10px;
+  border-radius: 5px;
+  background-color:green;
+  border:none;
+}
+
+
+
+
+
   .line {
     width: 10px;
     height: 200px;
+  }
+
+.fo-title{
+    text-align: center;
+}
+  .qoute{
+      color:#878a92;
+      text-align: center;padding: 15px; font-size: 12px;
   }
