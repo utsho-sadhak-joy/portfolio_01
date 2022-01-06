@@ -1,0 +1,46 @@
+.flex-containerd {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    /* background-color: DodgerBlue; */
+  }
+  
+  .flex-containerd > div {
+    /* background-color: #f1f1f1; */
+    width: 300px;
+    margin: 30px;
+    border-radius: 5px;
+    text-align: left;
+
+    /* line-height: 75px; */
+    /* font-size: 30px; */
+    background-color:#edf5f6;
+  }
+
+
+  .car1{
+    width: 150px;
+    height:150px;
+    /* position: relative;
+    align-items: left;
+    justify-content: left; */
+    border-radius: 5%;
+    /* margin-right: 30%; */
+    /* background-color:red; */
+  }
+
+
+
+  
+.mi-title{
+    text-align: center;
+    color:#878a92;
+    font-family: Arial bold;
+    padding: 15px; font-size: 30px;
+  }
+}
+.qoutes{
+      color:#878a92;
+      text-align: center;padding: 15px; font-size: 12px;
+  }
